@@ -1,0 +1,3 @@
+#项目相关配置信息
+project_name: "douyin"   #项目名称
+etcd_address: "127.0.0.1:2379"   #etcd地址
